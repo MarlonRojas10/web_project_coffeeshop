@@ -1,6 +1,6 @@
-# Proyecto 2: Librería Triple Peaks
+# Proyecto 3: project_coffeeshop
 
-La página web de la Librería Triple Peaks es el primer proyecto en el programa de Ingeniería de software en Triple Ten. Fue creado utilizando HTML y CSS, con base en un informe de diseño.
+La página web de la cafeteria café de espécialidad en triple peaks nos puso a prueba, usamos todo lo anterior antes visto en el curso. Asi mismo nos hizo unir todos nuestros conociemientos y estrucuturar este proyecto desde 0 con la nomenclatura BEM.Usamos el flexbox, formularios, iframe y trabajamos mediante GITHUB. Una nueva tecnologia que nos ayuda a tener el control de nuestro proyecto mejora por mejora.
 
 ## Características del proyecto
 
@@ -8,3 +8,5 @@ La página web de la Librería Triple Peaks es el primer proyecto en el programa
 -	Flexbox
 -	Posicionamiento
 -	Apilamiento vertical con z-index
+-formularios
+-iframes
